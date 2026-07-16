@@ -1,0 +1,9 @@
+gradio
+openai
+google-generativeai
+anthropic
+cohere
+huggingface_hub
+replicate
+PyPDF2
+requests
